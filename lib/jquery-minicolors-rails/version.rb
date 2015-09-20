@@ -1,3 +1,3 @@
 module JqueryMinicolorsRails
-  VERSION = '0.0.3'
+  VERSION = '2.1.4.0'
 end
